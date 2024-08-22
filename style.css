@@ -1,0 +1,9 @@
+.manrope-font {
+    font-family: "Manrope", sans-serif;
+  }
+.arrow{
+    border-radius: 50%;
+    background-color: rgb(171, 239, 95);
+    padding: 10px;
+    margin: 0 10px;
+}
