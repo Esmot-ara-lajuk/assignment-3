@@ -7,3 +7,11 @@
     padding: 10px;
     margin: 0 10px;
 }
+/* Team Member */
+.team img {
+  width: 100%;
+  transition: all .3s ease-in-out;
+}
+.team img:hover   {
+  transform: scale(1.2);
+}
